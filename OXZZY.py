@@ -21,16 +21,16 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet GMKR-Ddos")
 print
-print "Coded By : GAMKERS"
-print "Author   : GAMKERS"
-print "Github   : github.com/gamkers"
+print "Coded By : OXZZY"
+print "Author   : OXZZY"
+print "Github   : github.com/oxzzyofc"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We aren't responsible for your actions"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 os.system("clear")
 os.system("figlet GMKR-Ddos")
-print("Team : GAMKERS")
+print("Team : OXZZY")
 print ("\033[92m")
 print "________________TRYING TO REACH THE SERVER_____________________"
 time.sleep(5)
