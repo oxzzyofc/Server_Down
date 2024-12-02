@@ -21,18 +21,18 @@ $ pkg install figlet
 
 $ git clone https://github.com/oxzzyofc/Server_Down.git
 
-$ cd GAMKERS-DDOS
+$ cd OXZZY
 
-$ chmod +x GAMKERS-DDOS.py
+$ chmod +x OXZZY.py
 
-$ python2 GAMKERS-DDOS.py
+$ python2 OXZZY.py
 
 
 To Run
 
-$ cd GAMKERS-DDOS
+$ cd OXZZY
 
-$ python2 GAMKERS-DDOS.py
+$ python2 OXZZY.py
 
 
 
