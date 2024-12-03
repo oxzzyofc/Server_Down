@@ -21,18 +21,18 @@ $ pkg install figlet
 
 $ git clone https://github.com/oxzzyofc/Server_Down.git
 
-$ cd OXZZY
+$ cd Server_Down
 
-$ chmod +x OXZZY.py
+$ chmod +x Server_Down.py
 
-$ python2 OXZZY.py
+$ python2 Server_Down.py
 
 
 To Run
 
-$ cd OXZZY
+$ cd Server_Down
 
-$ python2 OXZZY.py
+$ python2 Server_Down.py
 
 
 
