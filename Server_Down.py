@@ -21,9 +21,9 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet OXZZY-OFC")
 print
-print "Coded By : OXZZY"
-print "Author   : OXZZY"
-print "Github   : github.com/oxzzyofc"
+print "Mode By : OXZZY"
+print "Creator : Vishnu"
+print "Instagram : https://instagram.com/ox.zzy"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We aren't responsible for your actions"
 print
 ip = raw_input("IP Target : ")
